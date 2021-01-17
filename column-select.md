@@ -15,7 +15,7 @@
 
     # 출력
     print(df)
-            A  B   C
+       A  B  C
     0  1  A  11
     1  2  B  22
     2  3  C  33
