@@ -14,7 +14,7 @@
 
     # 출력
     print(df)
-            id  name  weight
+        id  name  weight
     0   1   Kim      70
     1   2   Lee      90
     2   3  Moon      55
@@ -37,7 +37,7 @@
 
     # 출력
     print(df)
-        id  name  weight
+       id  name  weight
     0  1   Kim     70
     1  2   Lee     90
     2  3  Moon     55

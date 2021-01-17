@@ -36,7 +36,7 @@
         df = pd.read_csv('./data.txt')
 
         print(df)
-            번호    이름  몸무게
+          번호   이름  몸무게
         0   1   Kim   70
         1   2   Lee   90
         2   3  Moon   55
@@ -57,7 +57,7 @@
         df = pd.read_table('./data_no_header.txt', sep=',', header=None, names=['번호','이름','몸무게']
 
         print(df)
-            번호    이름  몸무게
+          번호   이름  몸무게
         0   1   Kim   70
         1   2   Lee   90
         2   3  Moon   55
