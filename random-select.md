@@ -12,10 +12,10 @@
     df = pd.DataFrame(data)
 
     df
-     A B
-    0 apple 11
-    1 grape 19
-    2 pear 2
+      A      B
+    0 apple  11
+    1 grape  19
+    2 pear   2
     3 banana 7
     4 orange 41
     ```
